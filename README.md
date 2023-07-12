@@ -3,6 +3,7 @@
 <h1 align="center">Hi 👋, I'm koyya vishnu vardhan</h1>
 <h3 align="center">Nothing! Just a passionate learner. DATA SCIENCE</h3>
 
+
 - 🔭 I’m currently working on CAPSTONE [Facial reorganization in motion](https://github.com/vishnuvardhankoyya/CCTV_Facial-Recognization-In-Motion)
 
 - 🌱 I’m currently studying on Data Science **COURSES: AI, ML, NLP, Numerical methods for Data Science, Inferential and Differential statistics, Deep learning, OOPS, DBMS, Big Data, Data Visualization**
@@ -12,6 +13,7 @@
 - 📫 How to reach me **koyyavishnuvardhan@gmail.com**
 
 - ⚡ Fun fact **"I Am" is the shortest complete sentence in the English language.**
+
 
 
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/thumbnail/couple-laptop-system-coding-n4ikawbchrh2w41k.gif">

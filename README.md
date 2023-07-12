@@ -3,16 +3,6 @@
 <h1 align="center">Hi 👋, I'm koyya vishnu vardhan</h1>
 <h3 align="center">Nothing! Just a passionate learner. DATA SCIENCE</h3>
 
-
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/thumbnail/couple-laptop-system-coding-n4ikawbchrh2w41k.gif">
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnuvardhankoyya&label=Profile%20views&color=0e75b6&style=flat" alt="vishnuvardhankoyya" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishnuvardhankoyya" alt="vishnuvardhankoyya" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently working on CAPSTONE [Facial reorganization in motion](https://github.com/vishnuvardhankoyya/CCTV_Facial-Recognization-In-Motion)
 
 - 🌱 I’m currently studying on Data Science **COURSES: AI, ML, NLP, Numerical methods for Data Science, Inferential and Differential statistics, Deep learning, OOPS, DBMS, Big Data, Data Visualization**
@@ -23,9 +13,18 @@
 
 - ⚡ Fun fact **"I Am" is the shortest complete sentence in the English language.**
 
+
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/thumbnail/couple-laptop-system-coding-n4ikawbchrh2w41k.gif">
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnuvardhankoyya&label=Profile%20views&color=0e75b6&style=flat" alt="vishnuvardhankoyya" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishnuvardhankoyya" alt="vishnuvardhankoyya" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
 
 <a href="https://fb.com/koyya vishnu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="koyya vishnu" height="30" width="40" /></a>
 <a href="https://instagram.com/koyya_vishnu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="koyya_vishnu" height="30" width="40" /></a>
@@ -54,8 +53,11 @@
 
 
 # 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=vishnuvardhankoyya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vishnuvardhankoyya&theme=dark&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuvardhankoyya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 

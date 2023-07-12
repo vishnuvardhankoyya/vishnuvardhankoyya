@@ -1,3 +1,5 @@
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/thumbnail/couple-laptop-system-coding-n4ikawbchrh2w41k.gif">
+
 <h1 align="center">Hi 👋, I'm koyya vishnu vardhan</h1>
 <h3 align="center">Nothing! Just a passionate learner. DATA SCIENCE</h3>
 

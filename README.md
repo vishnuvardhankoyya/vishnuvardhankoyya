@@ -11,6 +11,8 @@
 - 💬 Ask me about **R, Python programming, Frameworks : React, Angular, Web Development, AWS, Data Analysis**
 
 - 📫 How to reach me **koyyavishnuvardhan@gmail.com**
+- 📫 know about me **https://koyyavishnuvardhan.netlify.app/**
+
 
 - ⚡ Fun fact **"I Am" is the shortest complete sentence in the English language.**
 

@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently studying on Data Science **COURSES: AI, ML, NLP, Numerical methods for Data Science, Inferential and Differential statistics, Deep learning, OOPS, DBMS, Big Data, Data Visualization**
 
-- 💬 Ask me about **R, Python programming, Frameworks : React, Angular, Web Development, AWS, Data Analysis**
+- 💬 Ask me about **R, Python programming, Frameworks : React, Angular, and Web Development, AWS, Data Analysis**
 
 - 📫 How to reach me **koyyavishnuvardhan@gmail.com**
 - 📫 know about me **https://koyyavishnuvardhan.netlify.app/**

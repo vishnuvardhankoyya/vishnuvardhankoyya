@@ -1,7 +1,11 @@
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/thumbnail/couple-laptop-system-coding-n4ikawbchrh2w41k.gif">
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/thumbnail/couple-laptop-system-coding-n4ikawbchrh2w41k.gif"> <p align="left"> <img align="center" src="https://komarev.com/ghpvc/?username=vishnuvardhankoyya&label=Profile%20views&color=0e75b6&style=flat" alt="vishnuvardhankoyya" /> </p>
 
 <h1 align="center">Hi 👋, I'm koyya vishnu vardhan</h1>
 <h3 align="center">Nothing! Just a passionate learner. DATA SCIENCE</h3>
+<div align="center">
+<img alt="Coding" height="240" width="350" src="https://blog.imarticus.org/wp-content/uploads/2020/05/de.gif">
+</div>
+
 
 
 - 🔭 I’m currently working on CAPSTONE [Facial reorganization in motion](https://github.com/vishnuvardhankoyya/CCTV_Facial-Recognization-In-Motion)
@@ -18,10 +22,8 @@
 
 
 
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/thumbnail/couple-laptop-system-coding-n4ikawbchrh2w41k.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnuvardhankoyya&label=Profile%20views&color=0e75b6&style=flat" alt="vishnuvardhankoyya" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishnuvardhankoyya" alt="vishnuvardhankoyya" /></a> </p>
 

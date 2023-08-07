@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm koyya vishnu vardhan</h1>
 <h3 align="center">Nothing! Just a passionate learner. DATA SCIENCE</h3>
 <div align="center">
-<img alt="Coding" height="240" width="350" src="https://blog.imarticus.org/wp-content/uploads/2020/05/de.gif">
+<img alt="Coding" height="200" width="350" src="https://blog.imarticus.org/wp-content/uploads/2020/05/de.gif">
 </div>
 
 
